@@ -3,11 +3,11 @@
 Welcome to the repository accompanying our paper, *"DRL-Based Medium-Term Planning of Renewable-Integrated Self-Scheduling Cascaded Hydropower to Guide Wholesale Market Participation."*
 
 > **Important Note:**  
-> Due to collaboration policies, we cannot provide data related to the PGE system. However, the files included here can demonstrate the DRL portion of our research.
+> Due to collaboration policies, we are unable to provide data related to the PGE system. Nevertheless, we made an effort to upload as many files as possible to showcase the DRL portion of our research.
 
 ---
 
-## Repository Contents
+## Main Repository Contents
 
 - **CR_Result.mat**  
   Contains the results obtained using the multi-parametric programming acceleration method.
